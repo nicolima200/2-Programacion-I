@@ -123,3 +123,5 @@ n3=float(input("Ingrese el tercer número: "))
 print(f"PROMEDIO= {(n1+n2+n3)/3}")
 
 print() #   salto de línea
+
+#   prueba git
